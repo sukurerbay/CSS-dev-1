@@ -1,12 +1,5 @@
 # CSS-dev-1
 
-CSS-dev-1/index.html
-@sukurerbay
-sukurerbay Add files via upload
-Latest commit fba3e2f 17 minutes ago
- History
- 1 contributor
-45 lines (45 sloc)  1.85 KB
 
 <!DOCTYPE html>
 <html lang="tr">
@@ -55,9 +48,6 @@ Latest commit fba3e2f 17 minutes ago
 </html>
 Footer
 
-CSS-dev-1/index.html at main · sukurerbay/CSS-dev-1
-
-
 <!DOCTYPE html>
 <html lang="tr">
 <head>
@@ -96,8 +86,6 @@ CSS-dev-1/index.html at main · sukurerbay/CSS-dev-1
 </body>
 </html>
 Footer
-© 2023 GitHub, Inc.
-
 
 <!DOCTYPE html>
 <html lang="tr">
@@ -143,6 +131,6 @@ Footer
     <!-- Content - End -->
 </body>
 </html>
-Footer
+
 © 2023 GitHub, Inc.
 
