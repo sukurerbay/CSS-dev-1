@@ -1,27 +1,5 @@
 # CSS-dev-1
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@sukurerbay 
-sukurerbay
-/
-CSS-dev-1
-Public
-Cannot fork because you own this repository and are not a member of any organizations.
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
+
 CSS-dev-1/index.html
 @sukurerbay
 sukurerbay Add files via upload
@@ -76,51 +54,9 @@ Latest commit fba3e2f 17 minutes ago
 </body>
 </html>
 Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
 CSS-dev-1/index.html at main · sukurerbay/CSS-dev-1
 
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@sukurerbay 
-sukurerbay
-/
-CSS-dev-1
-Public
-Cannot fork because you own this repository and are not a member of any organizations.
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-CSS-dev-1/hizmetlerimiz.html
-@sukurerbay
-sukurerbay Add files via upload
-Latest commit fba3e2f 21 minutes ago
- History
- 1 contributor
-37 lines (37 sloc)  1.18 KB
 
 <!DOCTYPE html>
 <html lang="tr">
@@ -161,16 +97,52 @@ Latest commit fba3e2f 21 minutes ago
 </html>
 Footer
 © 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-CSS-dev-1/hizmetlerimiz.html at main · sukurerbay/CSS-dev-1
+
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hakkımızda</title>
+    <link rel="stylesheet" href="css/kodluyoruz.css">
+</head>
+<body>
+    <style>
+   body {
+  background-color: #F0F8FF;
+}
+    </style>
+ <!-- Nevbar - Start -->
+    <header>
+        <h1 style="text-align:center"><span style="color: red;font-size:40px;">MİSYON</span></h1>
+    </header>
+    <!-- Nevbar - End -->
+    <!-- Content - Start -->
+        <section>
+            <article>
+                <ul>
+                    <p>Müvekkili temsil ve danışmanlık hizmeti faaliyetlerini ifa ederken; evrensel ahlaki, hukuki değerler, avukatlık mesleğinin temel ilkeleri ve yükümlülükleri çerçevesinde (Bağımsızlık, Özgürlük, Sır Saklama, Müvekkile Sadakat, Adil Olma, Hakkaniyet, Öz Denetim, Hukukun üstünlüğüne ve yargının adil yönetimine saygı, Avukatlık mesleğinin itibar ve onuru ile avukatın kişisel dürüstlük ve saygınlığı, Özen, Sürekli öğrenme, Yenilik ve teknoloji, Paylaşım, Öncülük, Bilimsellik, Değer yaratma, Üretme, Süreklilik v.b.) hareket etmek.</p>
+                    <li>Toplumsal değerler ve hukuksal ilkeler çerçevesinde müvekkil ile karşılıklı saygı ve güvene dayalı ilişkiler kurmak.</li>
+                    <li>Hukuki sorunlarda odaklı yaklaşım biçimi sergilemek.</li>
+                    <li>Hukuki uyuşmazlıkları sadece dava avukatlığı ve çekişme olarak ele almayıp, gerektiğinde uzlaşarak en hızlı ve etkin şekilde çözümlemek.</li>
+                </ul>
+            </article>
+        </section>
+    <header>
+        <h1 style="text-align:center"><span style="color: red;font-size:40px;">VİZYON</span></h1>
+    </header>
+        <section>
+             <!-- Articles - Start -->
+            <article>
+                <p>Adalete ve hukuka olan saygı ve inancın artmasına katkıda bulunmak,müvekkillerimizin hak ve özgürlüklerini, karşılıklı saygı ve iş kuralları çerçevesinde, profesyonel olarak savunarak, kendilerine kaliteli hizmet vermek, hukuk sistemimizdeki tüm gelişme ve değişmeleri yakından takip ederek temsil edilen müvekkiller adına uygulamak; Saygın dürüst, güvenilir, çağdaş, atılımcı, başarılı bir vizyonla adaletin gerçekleşmesi için çalışmaktır.</p>
+            </article>
+             <!-- Articles - End -->
+        </section>
+    <!-- Content - End -->
+</body>
+</html>
+Footer
+© 2023 GitHub, Inc.
+
