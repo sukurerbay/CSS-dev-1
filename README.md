@@ -90,3 +90,87 @@ Training
 Blog
 About
 CSS-dev-1/index.html at main · sukurerbay/CSS-dev-1
+
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@sukurerbay 
+sukurerbay
+/
+CSS-dev-1
+Public
+Cannot fork because you own this repository and are not a member of any organizations.
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+CSS-dev-1/hizmetlerimiz.html
+@sukurerbay
+sukurerbay Add files via upload
+Latest commit fba3e2f 21 minutes ago
+ History
+ 1 contributor
+37 lines (37 sloc)  1.18 KB
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hizmetlerimiz</title>
+    <link rel="stylesheet" href="css/kodluyoruz.css">
+</head>
+<body>
+    <style>
+        body {
+          background-color: #87CEFA;
+        }
+        </style>
+    <!-- Nevbar - Start -->
+    <section>
+        <article>
+            <h1 style="text-align:center"><span style="color:red;font-size:40px;">Hizmetlerimiz</span></h1>
+            <ul align="center" style="list-style-position: inside">
+                <b><li>AİHM Bireysel Başvuru</li>
+                <li>AYM Bireysel Başvuru</li>
+                <li>İdari yargılama Hukuku</li>
+                <li>Ticaret Hukuku</li>
+                <li>Sigorta Hukuku</li>
+                <li>Ceza Hukuku</li></b>
+            </ul>
+        </article>
+    </section>
+     <!-- Nevbar -End -->
+     <!-- Footer - Start -->
+    <nav>
+        <a href="hakkımızda.html" target="_blank"><p style="text-align:center"> Hakkımızda</p></a>
+    </nav>
+     <!-- Footer - End -->
+</body>
+</html>
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+CSS-dev-1/hizmetlerimiz.html at main · sukurerbay/CSS-dev-1
